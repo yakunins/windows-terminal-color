@@ -1,0 +1,1026 @@
+[
+  {
+    "tabColor": "#FF0000",
+    "paneBackgroundColor": "#260000"
+  },
+  {
+    "tabColor": "#FF0400",
+    "paneBackgroundColor": "#260100"
+  },
+  {
+    "tabColor": "#FF0D00",
+    "paneBackgroundColor": "#260200"
+  },
+  {
+    "tabColor": "#FF1100",
+    "paneBackgroundColor": "#260300"
+  },
+  {
+    "tabColor": "#FF1900",
+    "paneBackgroundColor": "#260400"
+  },
+  {
+    "tabColor": "#FF1E00",
+    "paneBackgroundColor": "#260500"
+  },
+  {
+    "tabColor": "#FF2200",
+    "paneBackgroundColor": "#260500"
+  },
+  {
+    "tabColor": "#FF2A00",
+    "paneBackgroundColor": "#260600"
+  },
+  {
+    "tabColor": "#FF2F00",
+    "paneBackgroundColor": "#260700"
+  },
+  {
+    "tabColor": "#FF3700",
+    "paneBackgroundColor": "#260800"
+  },
+  {
+    "tabColor": "#FF3C00",
+    "paneBackgroundColor": "#260900"
+  },
+  {
+    "tabColor": "#FF4000",
+    "paneBackgroundColor": "#260A00"
+  },
+  {
+    "tabColor": "#FF4800",
+    "paneBackgroundColor": "#260B00"
+  },
+  {
+    "tabColor": "#FF4D00",
+    "paneBackgroundColor": "#260C00"
+  },
+  {
+    "tabColor": "#FF5500",
+    "paneBackgroundColor": "#260D00"
+  },
+  {
+    "tabColor": "#FF5900",
+    "paneBackgroundColor": "#260D00"
+  },
+  {
+    "tabColor": "#FF6200",
+    "paneBackgroundColor": "#260F00"
+  },
+  {
+    "tabColor": "#FF6600",
+    "paneBackgroundColor": "#260F00"
+  },
+  {
+    "tabColor": "#FF6A00",
+    "paneBackgroundColor": "#261000"
+  },
+  {
+    "tabColor": "#FF7300",
+    "paneBackgroundColor": "#261100"
+  },
+  {
+    "tabColor": "#FF7700",
+    "paneBackgroundColor": "#261200"
+  },
+  {
+    "tabColor": "#FF8000",
+    "paneBackgroundColor": "#261300"
+  },
+  {
+    "tabColor": "#FF8400",
+    "paneBackgroundColor": "#261400"
+  },
+  {
+    "tabColor": "#FF8800",
+    "paneBackgroundColor": "#261400"
+  },
+  {
+    "tabColor": "#FF9100",
+    "paneBackgroundColor": "#261600"
+  },
+  {
+    "tabColor": "#FF9500",
+    "paneBackgroundColor": "#261600"
+  },
+  {
+    "tabColor": "#FF9D00",
+    "paneBackgroundColor": "#261800"
+  },
+  {
+    "tabColor": "#FFA200",
+    "paneBackgroundColor": "#261800"
+  },
+  {
+    "tabColor": "#FFA600",
+    "paneBackgroundColor": "#261900"
+  },
+  {
+    "tabColor": "#FFAE00",
+    "paneBackgroundColor": "#261A00"
+  },
+  {
+    "tabColor": "#FFB300",
+    "paneBackgroundColor": "#261B00"
+  },
+  {
+    "tabColor": "#FFBB00",
+    "paneBackgroundColor": "#261C00"
+  },
+  {
+    "tabColor": "#FFBF00",
+    "paneBackgroundColor": "#261D00"
+  },
+  {
+    "tabColor": "#FFC400",
+    "paneBackgroundColor": "#261D00"
+  },
+  {
+    "tabColor": "#FFCC00",
+    "paneBackgroundColor": "#261F00"
+  },
+  {
+    "tabColor": "#FFD000",
+    "paneBackgroundColor": "#261F00"
+  },
+  {
+    "tabColor": "#FFD900",
+    "paneBackgroundColor": "#262100"
+  },
+  {
+    "tabColor": "#FFDD00",
+    "paneBackgroundColor": "#262100"
+  },
+  {
+    "tabColor": "#FFE100",
+    "paneBackgroundColor": "#262200"
+  },
+  {
+    "tabColor": "#FFEA00",
+    "paneBackgroundColor": "#262300"
+  },
+  {
+    "tabColor": "#FFEE00",
+    "paneBackgroundColor": "#262400"
+  },
+  {
+    "tabColor": "#FFF700",
+    "paneBackgroundColor": "#262500"
+  },
+  {
+    "tabColor": "#FFFB00",
+    "paneBackgroundColor": "#262600"
+  },
+  {
+    "tabColor": "#FFFF00",
+    "paneBackgroundColor": "#262600"
+  },
+  {
+    "tabColor": "#F6FF00",
+    "paneBackgroundColor": "#252600"
+  },
+  {
+    "tabColor": "#F2FF00",
+    "paneBackgroundColor": "#242600"
+  },
+  {
+    "tabColor": "#EAFF00",
+    "paneBackgroundColor": "#232600"
+  },
+  {
+    "tabColor": "#E5FF00",
+    "paneBackgroundColor": "#222600"
+  },
+  {
+    "tabColor": "#DDFF00",
+    "paneBackgroundColor": "#212600"
+  },
+  {
+    "tabColor": "#D9FF00",
+    "paneBackgroundColor": "#212600"
+  },
+  {
+    "tabColor": "#D4FF00",
+    "paneBackgroundColor": "#202600"
+  },
+  {
+    "tabColor": "#CCFF00",
+    "paneBackgroundColor": "#1F2600"
+  },
+  {
+    "tabColor": "#C8FF00",
+    "paneBackgroundColor": "#1E2600"
+  },
+  {
+    "tabColor": "#BFFF00",
+    "paneBackgroundColor": "#1D2600"
+  },
+  {
+    "tabColor": "#BBFF00",
+    "paneBackgroundColor": "#1C2600"
+  },
+  {
+    "tabColor": "#B7FF00",
+    "paneBackgroundColor": "#1B2600"
+  },
+  {
+    "tabColor": "#AEFF00",
+    "paneBackgroundColor": "#1A2600"
+  },
+  {
+    "tabColor": "#AAFF00",
+    "paneBackgroundColor": "#1A2600"
+  },
+  {
+    "tabColor": "#A2FF00",
+    "paneBackgroundColor": "#182600"
+  },
+  {
+    "tabColor": "#9DFF00",
+    "paneBackgroundColor": "#182600"
+  },
+  {
+    "tabColor": "#99FF00",
+    "paneBackgroundColor": "#172600"
+  },
+  {
+    "tabColor": "#91FF00",
+    "paneBackgroundColor": "#162600"
+  },
+  {
+    "tabColor": "#8CFF00",
+    "paneBackgroundColor": "#152600"
+  },
+  {
+    "tabColor": "#84FF00",
+    "paneBackgroundColor": "#142600"
+  },
+  {
+    "tabColor": "#80FF00",
+    "paneBackgroundColor": "#132600"
+  },
+  {
+    "tabColor": "#7BFF00",
+    "paneBackgroundColor": "#122600"
+  },
+  {
+    "tabColor": "#73FF00",
+    "paneBackgroundColor": "#112600"
+  },
+  {
+    "tabColor": "#6FFF00",
+    "paneBackgroundColor": "#112600"
+  },
+  {
+    "tabColor": "#66FF00",
+    "paneBackgroundColor": "#0F2600"
+  },
+  {
+    "tabColor": "#62FF00",
+    "paneBackgroundColor": "#0F2600"
+  },
+  {
+    "tabColor": "#5EFF00",
+    "paneBackgroundColor": "#0E2600"
+  },
+  {
+    "tabColor": "#55FF00",
+    "paneBackgroundColor": "#0D2600"
+  },
+  {
+    "tabColor": "#51FF00",
+    "paneBackgroundColor": "#0C2600"
+  },
+  {
+    "tabColor": "#48FF00",
+    "paneBackgroundColor": "#0B2600"
+  },
+  {
+    "tabColor": "#44FF00",
+    "paneBackgroundColor": "#0A2600"
+  },
+  {
+    "tabColor": "#40FF00",
+    "paneBackgroundColor": "#0A2600"
+  },
+  {
+    "tabColor": "#37FF00",
+    "paneBackgroundColor": "#082600"
+  },
+  {
+    "tabColor": "#33FF00",
+    "paneBackgroundColor": "#082600"
+  },
+  {
+    "tabColor": "#2BFF00",
+    "paneBackgroundColor": "#062600"
+  },
+  {
+    "tabColor": "#26FF00",
+    "paneBackgroundColor": "#062600"
+  },
+  {
+    "tabColor": "#1EFF00",
+    "paneBackgroundColor": "#052600"
+  },
+  {
+    "tabColor": "#1AFF00",
+    "paneBackgroundColor": "#042600"
+  },
+  {
+    "tabColor": "#15FF00",
+    "paneBackgroundColor": "#032600"
+  },
+  {
+    "tabColor": "#0DFF00",
+    "paneBackgroundColor": "#022600"
+  },
+  {
+    "tabColor": "#09FF00",
+    "paneBackgroundColor": "#012600"
+  },
+  {
+    "tabColor": "#00FF00",
+    "paneBackgroundColor": "#002600"
+  },
+  {
+    "tabColor": "#00FF04",
+    "paneBackgroundColor": "#002601"
+  },
+  {
+    "tabColor": "#00FF08",
+    "paneBackgroundColor": "#002601"
+  },
+  {
+    "tabColor": "#00FF11",
+    "paneBackgroundColor": "#002603"
+  },
+  {
+    "tabColor": "#00FF15",
+    "paneBackgroundColor": "#002603"
+  },
+  {
+    "tabColor": "#00FF1E",
+    "paneBackgroundColor": "#002605"
+  },
+  {
+    "tabColor": "#00FF22",
+    "paneBackgroundColor": "#002605"
+  },
+  {
+    "tabColor": "#00FF26",
+    "paneBackgroundColor": "#002606"
+  },
+  {
+    "tabColor": "#00FF2F",
+    "paneBackgroundColor": "#002607"
+  },
+  {
+    "tabColor": "#00FF33",
+    "paneBackgroundColor": "#002608"
+  },
+  {
+    "tabColor": "#00FF3C",
+    "paneBackgroundColor": "#002609"
+  },
+  {
+    "tabColor": "#00FF40",
+    "paneBackgroundColor": "#00260A"
+  },
+  {
+    "tabColor": "#00FF44",
+    "paneBackgroundColor": "#00260A"
+  },
+  {
+    "tabColor": "#00FF4C",
+    "paneBackgroundColor": "#00260B"
+  },
+  {
+    "tabColor": "#00FF51",
+    "paneBackgroundColor": "#00260C"
+  },
+  {
+    "tabColor": "#00FF59",
+    "paneBackgroundColor": "#00260D"
+  },
+  {
+    "tabColor": "#00FF5E",
+    "paneBackgroundColor": "#00260E"
+  },
+  {
+    "tabColor": "#00FF62",
+    "paneBackgroundColor": "#00260F"
+  },
+  {
+    "tabColor": "#00FF6A",
+    "paneBackgroundColor": "#002610"
+  },
+  {
+    "tabColor": "#00FF6E",
+    "paneBackgroundColor": "#002611"
+  },
+  {
+    "tabColor": "#00FF77",
+    "paneBackgroundColor": "#002612"
+  },
+  {
+    "tabColor": "#00FF7B",
+    "paneBackgroundColor": "#002612"
+  },
+  {
+    "tabColor": "#00FF80",
+    "paneBackgroundColor": "#002613"
+  },
+  {
+    "tabColor": "#00FF88",
+    "paneBackgroundColor": "#002614"
+  },
+  {
+    "tabColor": "#00FF8C",
+    "paneBackgroundColor": "#002615"
+  },
+  {
+    "tabColor": "#00FF95",
+    "paneBackgroundColor": "#002616"
+  },
+  {
+    "tabColor": "#00FF99",
+    "paneBackgroundColor": "#002617"
+  },
+  {
+    "tabColor": "#00FFA2",
+    "paneBackgroundColor": "#002618"
+  },
+  {
+    "tabColor": "#00FFA6",
+    "paneBackgroundColor": "#002619"
+  },
+  {
+    "tabColor": "#00FFAA",
+    "paneBackgroundColor": "#00261A"
+  },
+  {
+    "tabColor": "#00FFB3",
+    "paneBackgroundColor": "#00261B"
+  },
+  {
+    "tabColor": "#00FFB7",
+    "paneBackgroundColor": "#00261B"
+  },
+  {
+    "tabColor": "#00FFBF",
+    "paneBackgroundColor": "#00261D"
+  },
+  {
+    "tabColor": "#00FFC3",
+    "paneBackgroundColor": "#00261D"
+  },
+  {
+    "tabColor": "#00FFC8",
+    "paneBackgroundColor": "#00261E"
+  },
+  {
+    "tabColor": "#00FFD0",
+    "paneBackgroundColor": "#00261F"
+  },
+  {
+    "tabColor": "#00FFD5",
+    "paneBackgroundColor": "#002620"
+  },
+  {
+    "tabColor": "#00FFDD",
+    "paneBackgroundColor": "#002621"
+  },
+  {
+    "tabColor": "#00FFE1",
+    "paneBackgroundColor": "#002622"
+  },
+  {
+    "tabColor": "#00FFE5",
+    "paneBackgroundColor": "#002622"
+  },
+  {
+    "tabColor": "#00FFEE",
+    "paneBackgroundColor": "#002624"
+  },
+  {
+    "tabColor": "#00FFF2",
+    "paneBackgroundColor": "#002624"
+  },
+  {
+    "tabColor": "#00FFFB",
+    "paneBackgroundColor": "#002626"
+  },
+  {
+    "tabColor": "#00FFFF",
+    "paneBackgroundColor": "#002626"
+  },
+  {
+    "tabColor": "#00FBFF",
+    "paneBackgroundColor": "#002626"
+  },
+  {
+    "tabColor": "#00F2FF",
+    "paneBackgroundColor": "#002426"
+  },
+  {
+    "tabColor": "#00EEFF",
+    "paneBackgroundColor": "#002426"
+  },
+  {
+    "tabColor": "#00E5FF",
+    "paneBackgroundColor": "#002226"
+  },
+  {
+    "tabColor": "#00E1FF",
+    "paneBackgroundColor": "#002226"
+  },
+  {
+    "tabColor": "#00DDFF",
+    "paneBackgroundColor": "#002126"
+  },
+  {
+    "tabColor": "#00D5FF",
+    "paneBackgroundColor": "#002026"
+  },
+  {
+    "tabColor": "#00D0FF",
+    "paneBackgroundColor": "#001F26"
+  },
+  {
+    "tabColor": "#00C8FF",
+    "paneBackgroundColor": "#001E26"
+  },
+  {
+    "tabColor": "#00C3FF",
+    "paneBackgroundColor": "#001D26"
+  },
+  {
+    "tabColor": "#00BFFF",
+    "paneBackgroundColor": "#001D26"
+  },
+  {
+    "tabColor": "#00B7FF",
+    "paneBackgroundColor": "#001B26"
+  },
+  {
+    "tabColor": "#00B3FF",
+    "paneBackgroundColor": "#001B26"
+  },
+  {
+    "tabColor": "#00AAFF",
+    "paneBackgroundColor": "#001A26"
+  },
+  {
+    "tabColor": "#00A6FF",
+    "paneBackgroundColor": "#001926"
+  },
+  {
+    "tabColor": "#009DFF",
+    "paneBackgroundColor": "#001826"
+  },
+  {
+    "tabColor": "#0099FF",
+    "paneBackgroundColor": "#001726"
+  },
+  {
+    "tabColor": "#0095FF",
+    "paneBackgroundColor": "#001626"
+  },
+  {
+    "tabColor": "#008CFF",
+    "paneBackgroundColor": "#001526"
+  },
+  {
+    "tabColor": "#0088FF",
+    "paneBackgroundColor": "#001426"
+  },
+  {
+    "tabColor": "#0080FF",
+    "paneBackgroundColor": "#001326"
+  },
+  {
+    "tabColor": "#007BFF",
+    "paneBackgroundColor": "#001226"
+  },
+  {
+    "tabColor": "#0077FF",
+    "paneBackgroundColor": "#001226"
+  },
+  {
+    "tabColor": "#006EFF",
+    "paneBackgroundColor": "#001126"
+  },
+  {
+    "tabColor": "#006AFF",
+    "paneBackgroundColor": "#001026"
+  },
+  {
+    "tabColor": "#0062FF",
+    "paneBackgroundColor": "#000F26"
+  },
+  {
+    "tabColor": "#005EFF",
+    "paneBackgroundColor": "#000E26"
+  },
+  {
+    "tabColor": "#0059FF",
+    "paneBackgroundColor": "#000D26"
+  },
+  {
+    "tabColor": "#0051FF",
+    "paneBackgroundColor": "#000C26"
+  },
+  {
+    "tabColor": "#004CFF",
+    "paneBackgroundColor": "#000B26"
+  },
+  {
+    "tabColor": "#0044FF",
+    "paneBackgroundColor": "#000A26"
+  },
+  {
+    "tabColor": "#0040FF",
+    "paneBackgroundColor": "#000A26"
+  },
+  {
+    "tabColor": "#003CFF",
+    "paneBackgroundColor": "#000926"
+  },
+  {
+    "tabColor": "#0033FF",
+    "paneBackgroundColor": "#000826"
+  },
+  {
+    "tabColor": "#002FFF",
+    "paneBackgroundColor": "#000726"
+  },
+  {
+    "tabColor": "#0026FF",
+    "paneBackgroundColor": "#000626"
+  },
+  {
+    "tabColor": "#0022FF",
+    "paneBackgroundColor": "#000526"
+  },
+  {
+    "tabColor": "#001EFF",
+    "paneBackgroundColor": "#000526"
+  },
+  {
+    "tabColor": "#0015FF",
+    "paneBackgroundColor": "#000326"
+  },
+  {
+    "tabColor": "#0011FF",
+    "paneBackgroundColor": "#000326"
+  },
+  {
+    "tabColor": "#0008FF",
+    "paneBackgroundColor": "#000126"
+  },
+  {
+    "tabColor": "#0004FF",
+    "paneBackgroundColor": "#000126"
+  },
+  {
+    "tabColor": "#0000FF",
+    "paneBackgroundColor": "#000026"
+  },
+  {
+    "tabColor": "#0800FF",
+    "paneBackgroundColor": "#010026"
+  },
+  {
+    "tabColor": "#0D00FF",
+    "paneBackgroundColor": "#020026"
+  },
+  {
+    "tabColor": "#1500FF",
+    "paneBackgroundColor": "#030026"
+  },
+  {
+    "tabColor": "#1900FF",
+    "paneBackgroundColor": "#040026"
+  },
+  {
+    "tabColor": "#2200FF",
+    "paneBackgroundColor": "#050026"
+  },
+  {
+    "tabColor": "#2600FF",
+    "paneBackgroundColor": "#060026"
+  },
+  {
+    "tabColor": "#2B00FF",
+    "paneBackgroundColor": "#060026"
+  },
+  {
+    "tabColor": "#3300FF",
+    "paneBackgroundColor": "#080026"
+  },
+  {
+    "tabColor": "#3700FF",
+    "paneBackgroundColor": "#080026"
+  },
+  {
+    "tabColor": "#4000FF",
+    "paneBackgroundColor": "#0A0026"
+  },
+  {
+    "tabColor": "#4400FF",
+    "paneBackgroundColor": "#0A0026"
+  },
+  {
+    "tabColor": "#4800FF",
+    "paneBackgroundColor": "#0B0026"
+  },
+  {
+    "tabColor": "#5100FF",
+    "paneBackgroundColor": "#0C0026"
+  },
+  {
+    "tabColor": "#5500FF",
+    "paneBackgroundColor": "#0D0026"
+  },
+  {
+    "tabColor": "#5D00FF",
+    "paneBackgroundColor": "#0E0026"
+  },
+  {
+    "tabColor": "#6200FF",
+    "paneBackgroundColor": "#0F0026"
+  },
+  {
+    "tabColor": "#6600FF",
+    "paneBackgroundColor": "#0F0026"
+  },
+  {
+    "tabColor": "#6F00FF",
+    "paneBackgroundColor": "#110026"
+  },
+  {
+    "tabColor": "#7300FF",
+    "paneBackgroundColor": "#110026"
+  },
+  {
+    "tabColor": "#7B00FF",
+    "paneBackgroundColor": "#120026"
+  },
+  {
+    "tabColor": "#8000FF",
+    "paneBackgroundColor": "#130026"
+  },
+  {
+    "tabColor": "#8400FF",
+    "paneBackgroundColor": "#140026"
+  },
+  {
+    "tabColor": "#8C00FF",
+    "paneBackgroundColor": "#150026"
+  },
+  {
+    "tabColor": "#9000FF",
+    "paneBackgroundColor": "#160026"
+  },
+  {
+    "tabColor": "#9900FF",
+    "paneBackgroundColor": "#170026"
+  },
+  {
+    "tabColor": "#9D00FF",
+    "paneBackgroundColor": "#180026"
+  },
+  {
+    "tabColor": "#A200FF",
+    "paneBackgroundColor": "#180026"
+  },
+  {
+    "tabColor": "#AA00FF",
+    "paneBackgroundColor": "#1A0026"
+  },
+  {
+    "tabColor": "#AE00FF",
+    "paneBackgroundColor": "#1A0026"
+  },
+  {
+    "tabColor": "#B700FF",
+    "paneBackgroundColor": "#1B0026"
+  },
+  {
+    "tabColor": "#BB00FF",
+    "paneBackgroundColor": "#1C0026"
+  },
+  {
+    "tabColor": "#BF00FF",
+    "paneBackgroundColor": "#1D0026"
+  },
+  {
+    "tabColor": "#C800FF",
+    "paneBackgroundColor": "#1E0026"
+  },
+  {
+    "tabColor": "#CC00FF",
+    "paneBackgroundColor": "#1F0026"
+  },
+  {
+    "tabColor": "#D400FF",
+    "paneBackgroundColor": "#200026"
+  },
+  {
+    "tabColor": "#D900FF",
+    "paneBackgroundColor": "#210026"
+  },
+  {
+    "tabColor": "#E100FF",
+    "paneBackgroundColor": "#220026"
+  },
+  {
+    "tabColor": "#E600FF",
+    "paneBackgroundColor": "#230026"
+  },
+  {
+    "tabColor": "#EA00FF",
+    "paneBackgroundColor": "#230026"
+  },
+  {
+    "tabColor": "#F200FF",
+    "paneBackgroundColor": "#240026"
+  },
+  {
+    "tabColor": "#F700FF",
+    "paneBackgroundColor": "#250026"
+  },
+  {
+    "tabColor": "#FF00FF",
+    "paneBackgroundColor": "#260026"
+  },
+  {
+    "tabColor": "#FF00FB",
+    "paneBackgroundColor": "#260026"
+  },
+  {
+    "tabColor": "#FF00F7",
+    "paneBackgroundColor": "#260025"
+  },
+  {
+    "tabColor": "#FF00EE",
+    "paneBackgroundColor": "#260024"
+  },
+  {
+    "tabColor": "#FF00EA",
+    "paneBackgroundColor": "#260023"
+  },
+  {
+    "tabColor": "#FF00E1",
+    "paneBackgroundColor": "#260022"
+  },
+  {
+    "tabColor": "#FF00DD",
+    "paneBackgroundColor": "#260021"
+  },
+  {
+    "tabColor": "#FF00D9",
+    "paneBackgroundColor": "#260021"
+  },
+  {
+    "tabColor": "#FF00D0",
+    "paneBackgroundColor": "#26001F"
+  },
+  {
+    "tabColor": "#FF00CC",
+    "paneBackgroundColor": "#26001F"
+  },
+  {
+    "tabColor": "#FF00C3",
+    "paneBackgroundColor": "#26001D"
+  },
+  {
+    "tabColor": "#FF00BF",
+    "paneBackgroundColor": "#26001D"
+  },
+  {
+    "tabColor": "#FF00BB",
+    "paneBackgroundColor": "#26001C"
+  },
+  {
+    "tabColor": "#FF00B3",
+    "paneBackgroundColor": "#26001B"
+  },
+  {
+    "tabColor": "#FF00AE",
+    "paneBackgroundColor": "#26001A"
+  },
+  {
+    "tabColor": "#FF00A6",
+    "paneBackgroundColor": "#260019"
+  },
+  {
+    "tabColor": "#FF00A2",
+    "paneBackgroundColor": "#260018"
+  },
+  {
+    "tabColor": "#FF009D",
+    "paneBackgroundColor": "#260018"
+  },
+  {
+    "tabColor": "#FF0095",
+    "paneBackgroundColor": "#260016"
+  },
+  {
+    "tabColor": "#FF0090",
+    "paneBackgroundColor": "#260016"
+  },
+  {
+    "tabColor": "#FF0088",
+    "paneBackgroundColor": "#260014"
+  },
+  {
+    "tabColor": "#FF0084",
+    "paneBackgroundColor": "#260014"
+  },
+  {
+    "tabColor": "#FF0080",
+    "paneBackgroundColor": "#260013"
+  },
+  {
+    "tabColor": "#FF0077",
+    "paneBackgroundColor": "#260012"
+  },
+  {
+    "tabColor": "#FF0073",
+    "paneBackgroundColor": "#260011"
+  },
+  {
+    "tabColor": "#FF006A",
+    "paneBackgroundColor": "#260010"
+  },
+  {
+    "tabColor": "#FF0066",
+    "paneBackgroundColor": "#26000F"
+  },
+  {
+    "tabColor": "#FF005D",
+    "paneBackgroundColor": "#26000E"
+  },
+  {
+    "tabColor": "#FF0059",
+    "paneBackgroundColor": "#26000D"
+  },
+  {
+    "tabColor": "#FF0055",
+    "paneBackgroundColor": "#26000D"
+  },
+  {
+    "tabColor": "#FF004C",
+    "paneBackgroundColor": "#26000B"
+  },
+  {
+    "tabColor": "#FF0048",
+    "paneBackgroundColor": "#26000B"
+  },
+  {
+    "tabColor": "#FF0040",
+    "paneBackgroundColor": "#26000A"
+  },
+  {
+    "tabColor": "#FF003C",
+    "paneBackgroundColor": "#260009"
+  },
+  {
+    "tabColor": "#FF0037",
+    "paneBackgroundColor": "#260008"
+  },
+  {
+    "tabColor": "#FF002F",
+    "paneBackgroundColor": "#260007"
+  },
+  {
+    "tabColor": "#FF002B",
+    "paneBackgroundColor": "#260006"
+  },
+  {
+    "tabColor": "#FF0022",
+    "paneBackgroundColor": "#260005"
+  },
+  {
+    "tabColor": "#FF001E",
+    "paneBackgroundColor": "#260005"
+  },
+  {
+    "tabColor": "#FF0019",
+    "paneBackgroundColor": "#260004"
+  },
+  {
+    "tabColor": "#FF0011",
+    "paneBackgroundColor": "#260003"
+  },
+  {
+    "tabColor": "#FF000D",
+    "paneBackgroundColor": "#260002"
+  },
+  {
+    "tabColor": "#FF0004",
+    "paneBackgroundColor": "#260001"
+  }
+]
