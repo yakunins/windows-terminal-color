@@ -325,8 +325,11 @@ set "BG_COLOR=!BG_%INDEX%!"
 ) > "%TEMP%\wtc_setbg.cmd"
 
 :: Launch Windows Terminal (skip auto -d if user provided one)
+:: Strip trailing backslash from %CD% to prevent \"  escaping issues in wt
+set "LAUNCH_DIR=%CD%"
+if "!LAUNCH_DIR:~-1!"=="\" set "LAUNCH_DIR=!LAUNCH_DIR:~0,-1!"
 if !HAS_DIR!==0 (
-    wt -d "%CD%" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+    wt -d "!LAUNCH_DIR!" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
 ) else (
     wt --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
 )
