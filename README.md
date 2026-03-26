@@ -2,8 +2,8 @@
 
 <img src="images/windows-terminal-color-how-it-work.gif" width="720" alt="windows terminal color how it work" />
 
-Open Windows Terminal with pseudo-random colors for tab and pane; based on the current directory.  
-Same folder always gets the same unique colors.
+Opens Windows Terminal with automatically generated colors for the tab and pane, based on the current working directory.  
+Each folder consistently receives its own unique color.
 
 ## Installation
 
