@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: Settings
-set "VERSION=0.0.1"
+set "VERSION=0.0.2"
 set "COLOR_COUNT=24"
 
 :: Handle install flag
@@ -11,6 +11,7 @@ if "%~1"=="-install" goto :install
 if "%~1"=="--install" goto :install
 
 :: Parse arguments: split on -- separator, detect -d flag
+set "WT_GLOBAL="
 set "WT_ARGS="
 set "USER_CMD="
 set "HAS_DIR=0"
@@ -43,6 +44,19 @@ if /i "%~1"=="-d" (
     shift
     goto :parse_args
 )
+if /i "%~1"=="-w" goto :parse_global
+if /i "%~1"=="--window" goto :parse_global
+goto :parse_local
+:parse_global
+if defined WT_GLOBAL (
+    set "WT_GLOBAL=!WT_GLOBAL! %1 %2"
+) else (
+    set "WT_GLOBAL=%1 %2"
+)
+shift
+shift
+goto :parse_args
+:parse_local
 if defined WT_ARGS (
     set "WT_ARGS=!WT_ARGS! %1"
 ) else (
@@ -329,9 +343,9 @@ set "BG_COLOR=!BG_%INDEX%!"
 set "LAUNCH_DIR=%CD%"
 if "!LAUNCH_DIR:~-1!"=="\" set "LAUNCH_DIR=!LAUNCH_DIR:~0,-1!"
 if !HAS_DIR!==0 (
-    wt -d "!LAUNCH_DIR!" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+    wt !WT_GLOBAL! -d "!LAUNCH_DIR!" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
 ) else (
-    wt --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+    wt !WT_GLOBAL! --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
 )
 exit /b
 
