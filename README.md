@@ -7,7 +7,7 @@ Same folder always gets the same unique colors.
 
 ## Installation
 
-1. Download `wtc.cmd` into a permanent location
+1. Download [`wtc.cmd`](./wtc.cmd) into a permanent location
 2. Run `wtc --install` to add the current folder to your user PATH
 3. Restart your terminal
 
