@@ -2,13 +2,13 @@
 
 <img src="images/windows-terminal-color-how-it-work.gif" width="720" alt="windows terminal color how it work" />
 
-Open Windows Terminal with pseudo-random colors for tab and pane; based on the current directory. 
+Open Windows Terminal with pseudo-random colors for tab and pane; based on the current directory.  
 Same folder always gets the same unique colors.
 
 ## Installation
 
-1. Clone or copy this repo to a permanent location
-2. Run `wtc --install` to add the folder to your user PATH
+1. Download `wtc.cmd` into a permanent location
+2. Run `wtc --install` to add the current folder to your user PATH
 3. Restart your terminal
 
 Or manually add the folder containing `wtc.cmd` to your PATH.
@@ -20,8 +20,6 @@ wtc                          # open WT colored by current directory
 wtc -d C:\Projects\foo       # specify a directory
 wtc -- --title "My Tab"      # pass extra arguments to wt.exe
 ```
-
-The color is chosen by hashing the directory path, so the same folder always opens with the same color.
 
 ## Customization
 
