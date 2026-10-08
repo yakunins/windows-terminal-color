@@ -342,10 +342,17 @@ set "BG_COLOR=!BG_%INDEX%!"
 :: Strip trailing backslash from %CD% to prevent \"  escaping issues in wt
 set "LAUNCH_DIR=%CD%"
 if "!LAUNCH_DIR:~-1!"=="\" set "LAUNCH_DIR=!LAUNCH_DIR:~0,-1!"
+set "WT_TRIED=0"
+:launch
 if !HAS_DIR!==0 (
-    wt !WT_GLOBAL! -d "!LAUNCH_DIR!" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+    call wt !WT_GLOBAL! -d "!LAUNCH_DIR!" --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
 ) else (
-    wt !WT_GLOBAL! --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+    call wt !WT_GLOBAL! --tabColor "%TAB_COLOR%" !WT_ARGS! cmd /k "call %TEMP%\wtc_setbg.cmd"
+)
+if errorlevel 1 if !WT_TRIED!==0 (
+    rem wt alias may be stale after a Windows Terminal update: repair it and retry once
+    set "WT_TRIED=1"
+    call "%~dp0wt-locate.cmd" && goto :launch
 )
 exit /b
 
